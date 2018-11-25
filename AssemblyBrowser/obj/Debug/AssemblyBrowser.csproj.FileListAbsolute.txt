@@ -1,0 +1,6 @@
+D:\Labs\MPP_3\AssemblyBrowser\AssemblyBrowser\bin\Debug\AssemblyBrowser.dll
+D:\Labs\MPP_3\AssemblyBrowser\AssemblyBrowser\bin\Debug\AssemblyBrowser.pdb
+D:\Labs\MPP_3\AssemblyBrowser\AssemblyBrowser\obj\Debug\AssemblyBrowser.csprojAssemblyReference.cache
+D:\Labs\MPP_3\AssemblyBrowser\AssemblyBrowser\obj\Debug\AssemblyBrowser.csproj.CoreCompileInputs.cache
+D:\Labs\MPP_3\AssemblyBrowser\AssemblyBrowser\obj\Debug\AssemblyBrowser.dll
+D:\Labs\MPP_3\AssemblyBrowser\AssemblyBrowser\obj\Debug\AssemblyBrowser.pdb
