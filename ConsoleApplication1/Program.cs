@@ -11,8 +11,7 @@ namespace ConsoleApplication
         public static void Main(string[] args)
         {
             string path = @"D:\Labs\MPP_3\AssemblyBrowser\ConsoleApplication1\Plugins\1.dll";
-            AssemblyBrowser assemblyBrowser = new AssemblyBrowser();
-            assemblyBrowser.SetAssembly(Assembly.LoadFile(new FileInfo(path).FullName));
+            AssemblyBrowser assemblyBrowser = new AssemblyBrowser(path);
 
             foreach (Namespace ns in assemblyBrowser.GetAllNamespaces())
             {

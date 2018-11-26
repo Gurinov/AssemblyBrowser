@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.IO;
 using System.Reflection;
 using Assembly_Browser.model;
 
@@ -9,16 +10,19 @@ namespace Assembly_Browser
     {
         private Assembly _assembly;
         private List<Namespace> _namespaces;
+        private string _url;
 
-        public AssemblyBrowser()
+        public AssemblyBrowser(string url)
         {
             _namespaces = new List<Namespace>();
             _assembly = null;
+            _url = url;
+            SetAssembly();
         }
         
-        public void SetAssembly(Assembly assembly)
+        public void SetAssembly()
         {
-            _assembly = assembly;
+            _assembly = Assembly.LoadFile(new FileInfo(_url).FullName);
         }
         
         public List<Namespace> GetAllNamespaces() {

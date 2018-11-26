@@ -2,8 +2,8 @@ D:\Labs\MPP_3\AssemblyBrowser\ConsoleApplication1\bin\Debug\ConsoleApplication1.
 D:\Labs\MPP_3\AssemblyBrowser\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
 D:\Labs\MPP_3\AssemblyBrowser\ConsoleApplication1\bin\Debug\AssemblyBrowser.dll
 D:\Labs\MPP_3\AssemblyBrowser\ConsoleApplication1\bin\Debug\AssemblyBrowser.pdb
+D:\Labs\MPP_3\AssemblyBrowser\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+D:\Labs\MPP_3\AssemblyBrowser\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
 D:\Labs\MPP_3\AssemblyBrowser\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojAssemblyReference.cache
 D:\Labs\MPP_3\AssemblyBrowser\ConsoleApplication1\obj\Debug\ConsoleApplication1.csproj.CoreCompileInputs.cache
 D:\Labs\MPP_3\AssemblyBrowser\ConsoleApplication1\obj\Debug\ConsoleApplication1.csproj.CopyComplete
-D:\Labs\MPP_3\AssemblyBrowser\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
-D:\Labs\MPP_3\AssemblyBrowser\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
