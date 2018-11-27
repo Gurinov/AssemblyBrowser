@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ContentModelStore">
-    <e p="C:\Users\gurin\.Rider2018.2\system\extResources" t="IncludeRecursive" />
-    <e p="C:\Users\gurin\.Rider2018.2\system\resharper-host\local\Transient\ReSharperHost\v182\SolutionCaches\_AssemblyBrowser.-631840454.00" t="ExcludeRecursive" />
-    <e p="C:\Users\gurin\Desktop\assembly browser\AssemblyBrowser" t="IncludeFlat">
+    <e p="C:\Users\Gurinov\.Rider2018.2\config\extensions" t="IncludeRecursive" />
+    <e p="C:\Users\Gurinov\.Rider2018.2\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Gurinov\.Rider2018.2\system\resharper-host\local\Transient\ReSharperHost\v182\SolutionCaches\_AssemblyBrowser.-1100582543.00" t="ExcludeRecursive" />
+    <e p="D:\Labs\MPP_3\AssemblyBrowser" t="IncludeFlat">
       <e p="AssemblyBrowser" t="IncludeRecursive">
         <e p="AssemblyBrowser.cs" t="Include" />
         <e p="AssemblyBrowser.csproj" t="IncludeRecursive" />

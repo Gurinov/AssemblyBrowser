@@ -9,3 +9,13 @@ C:\Users\gurin\Desktop\assembly browser\AssemblyBrowser\TestProject\obj\Debug\Te
 C:\Users\gurin\Desktop\assembly browser\AssemblyBrowser\TestProject\obj\Debug\TestProject.pdb
 C:\Users\gurin\Desktop\assembly browser\AssemblyBrowser\TestProject\bin\Debug\AssemblyBrowser.dll
 C:\Users\gurin\Desktop\assembly browser\AssemblyBrowser\TestProject\bin\Debug\AssemblyBrowser.pdb
+D:\Labs\MPP_3\AssemblyBrowser\TestProject\bin\Debug\TestProject.dll
+D:\Labs\MPP_3\AssemblyBrowser\TestProject\bin\Debug\TestProject.pdb
+D:\Labs\MPP_3\AssemblyBrowser\TestProject\bin\Debug\AssemblyBrowser.dll
+D:\Labs\MPP_3\AssemblyBrowser\TestProject\bin\Debug\AssemblyBrowser.pdb
+D:\Labs\MPP_3\AssemblyBrowser\TestProject\bin\Debug\nunit.framework.xml
+D:\Labs\MPP_3\AssemblyBrowser\TestProject\obj\Debug\TestProject.csprojAssemblyReference.cache
+D:\Labs\MPP_3\AssemblyBrowser\TestProject\obj\Debug\TestProject.csproj.CoreCompileInputs.cache
+D:\Labs\MPP_3\AssemblyBrowser\TestProject\obj\Debug\TestProject.csproj.CopyComplete
+D:\Labs\MPP_3\AssemblyBrowser\TestProject\obj\Debug\TestProject.dll
+D:\Labs\MPP_3\AssemblyBrowser\TestProject\obj\Debug\TestProject.pdb
