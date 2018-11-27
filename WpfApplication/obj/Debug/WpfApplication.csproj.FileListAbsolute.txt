@@ -18,3 +18,23 @@ D:\Labs\MPP_3\AssemblyBrowser\WpfApplication\obj\Debug\WpfApplication.pdb
 D:\Labs\MPP_3\AssemblyBrowser\WpfApplication\obj\Debug\WpfApplication.csprojAssemblyReference.cache
 D:\Labs\MPP_3\AssemblyBrowser\WpfApplication\obj\Debug\WpfApplication.csproj.CoreCompileInputs.cache
 D:\Labs\MPP_3\AssemblyBrowser\WpfApplication\obj\Debug\WpfApplication.csproj.CopyComplete
+C:\Users\gurin\Desktop\assembly browser\AssemblyBrowser\WpfApplication\bin\Debug\WpfApplication.exe.config
+C:\Users\gurin\Desktop\assembly browser\AssemblyBrowser\WpfApplication\bin\Debug\WpfApplication.exe
+C:\Users\gurin\Desktop\assembly browser\AssemblyBrowser\WpfApplication\bin\Debug\WpfApplication.pdb
+C:\Users\gurin\Desktop\assembly browser\AssemblyBrowser\WpfApplication\bin\Debug\AssemblyBrowser.dll
+C:\Users\gurin\Desktop\assembly browser\AssemblyBrowser\WpfApplication\bin\Debug\ConsoleApplication1.exe
+C:\Users\gurin\Desktop\assembly browser\AssemblyBrowser\WpfApplication\bin\Debug\AssemblyBrowser.pdb
+C:\Users\gurin\Desktop\assembly browser\AssemblyBrowser\WpfApplication\bin\Debug\ConsoleApplication1.pdb
+C:\Users\gurin\Desktop\assembly browser\AssemblyBrowser\WpfApplication\obj\Debug\WpfApplication.csprojAssemblyReference.cache
+C:\Users\gurin\Desktop\assembly browser\AssemblyBrowser\WpfApplication\obj\Debug\MainWindow.g.cs
+C:\Users\gurin\Desktop\assembly browser\AssemblyBrowser\WpfApplication\obj\Debug\App.g.cs
+C:\Users\gurin\Desktop\assembly browser\AssemblyBrowser\WpfApplication\obj\Debug\WpfApplication_MarkupCompile.cache
+C:\Users\gurin\Desktop\assembly browser\AssemblyBrowser\WpfApplication\obj\Debug\WpfApplication_MarkupCompile.lref
+C:\Users\gurin\Desktop\assembly browser\AssemblyBrowser\WpfApplication\obj\Debug\MainWindow.baml
+C:\Users\gurin\Desktop\assembly browser\AssemblyBrowser\WpfApplication\obj\Debug\WpfApplication.g.resources
+C:\Users\gurin\Desktop\assembly browser\AssemblyBrowser\WpfApplication\obj\Debug\WpfApplication.Properties.Resources.resources
+C:\Users\gurin\Desktop\assembly browser\AssemblyBrowser\WpfApplication\obj\Debug\WpfApplication.csproj.GenerateResource.cache
+C:\Users\gurin\Desktop\assembly browser\AssemblyBrowser\WpfApplication\obj\Debug\WpfApplication.csproj.CoreCompileInputs.cache
+C:\Users\gurin\Desktop\assembly browser\AssemblyBrowser\WpfApplication\obj\Debug\WpfApplication.csproj.CopyComplete
+C:\Users\gurin\Desktop\assembly browser\AssemblyBrowser\WpfApplication\obj\Debug\WpfApplication.exe
+C:\Users\gurin\Desktop\assembly browser\AssemblyBrowser\WpfApplication\obj\Debug\WpfApplication.pdb

@@ -4,3 +4,9 @@ D:\Labs\MPP_3\AssemblyBrowser\AssemblyBrowser\obj\Debug\AssemblyBrowser.dll
 D:\Labs\MPP_3\AssemblyBrowser\AssemblyBrowser\obj\Debug\AssemblyBrowser.pdb
 D:\Labs\MPP_3\AssemblyBrowser\AssemblyBrowser\obj\Debug\AssemblyBrowser.csprojAssemblyReference.cache
 D:\Labs\MPP_3\AssemblyBrowser\AssemblyBrowser\obj\Debug\AssemblyBrowser.csproj.CoreCompileInputs.cache
+C:\Users\gurin\Desktop\assembly browser\AssemblyBrowser\AssemblyBrowser\bin\Debug\AssemblyBrowser.dll
+C:\Users\gurin\Desktop\assembly browser\AssemblyBrowser\AssemblyBrowser\bin\Debug\AssemblyBrowser.pdb
+C:\Users\gurin\Desktop\assembly browser\AssemblyBrowser\AssemblyBrowser\obj\Debug\AssemblyBrowser.csprojAssemblyReference.cache
+C:\Users\gurin\Desktop\assembly browser\AssemblyBrowser\AssemblyBrowser\obj\Debug\AssemblyBrowser.csproj.CoreCompileInputs.cache
+C:\Users\gurin\Desktop\assembly browser\AssemblyBrowser\AssemblyBrowser\obj\Debug\AssemblyBrowser.dll
+C:\Users\gurin\Desktop\assembly browser\AssemblyBrowser\AssemblyBrowser\obj\Debug\AssemblyBrowser.pdb

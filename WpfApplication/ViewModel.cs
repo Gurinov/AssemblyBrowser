@@ -26,19 +26,18 @@ namespace WpfApplication
         {
             OpenFileDialog openFileDialog = new OpenFileDialog();
             openFileDialog.Filter = "Assembly (*.dll) | *.dll";
-            if (openFileDialog.ShowDialog() == true)
+            if (openFileDialog.ShowDialog() == true && openFileDialog.FileName != null)
             {
                _assemblyBrowser = new AssemblyBrowser(openFileDialog.FileName);
-            }
+                string result = "";
+                foreach (Namespace ns in _assemblyBrowser.GetAllNamespaces())
+                {
+                    result += ns.ToString();
+                }
 
-            string result = "";
-            foreach (Namespace ns in _assemblyBrowser.GetAllNamespaces())
-            {
-                result += ns.ToString();
+                Info = result;
+                OnPropertyChanged("Info");
             }
-
-            Info = result;
-            OnPropertyChanged("Info");
         }
 
         public BrowserCommand LoadCommand { get; protected set; }

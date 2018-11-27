@@ -7,3 +7,12 @@ D:\Labs\MPP_3\AssemblyBrowser\ConsoleApplication1\obj\Debug\ConsoleApplication1.
 D:\Labs\MPP_3\AssemblyBrowser\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojAssemblyReference.cache
 D:\Labs\MPP_3\AssemblyBrowser\ConsoleApplication1\obj\Debug\ConsoleApplication1.csproj.CoreCompileInputs.cache
 D:\Labs\MPP_3\AssemblyBrowser\ConsoleApplication1\obj\Debug\ConsoleApplication1.csproj.CopyComplete
+C:\Users\gurin\Desktop\assembly browser\AssemblyBrowser\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\gurin\Desktop\assembly browser\AssemblyBrowser\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\gurin\Desktop\assembly browser\AssemblyBrowser\ConsoleApplication1\bin\Debug\AssemblyBrowser.dll
+C:\Users\gurin\Desktop\assembly browser\AssemblyBrowser\ConsoleApplication1\bin\Debug\AssemblyBrowser.pdb
+C:\Users\gurin\Desktop\assembly browser\AssemblyBrowser\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojAssemblyReference.cache
+C:\Users\gurin\Desktop\assembly browser\AssemblyBrowser\ConsoleApplication1\obj\Debug\ConsoleApplication1.csproj.CoreCompileInputs.cache
+C:\Users\gurin\Desktop\assembly browser\AssemblyBrowser\ConsoleApplication1\obj\Debug\ConsoleApplication1.csproj.CopyComplete
+C:\Users\gurin\Desktop\assembly browser\AssemblyBrowser\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\gurin\Desktop\assembly browser\AssemblyBrowser\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
